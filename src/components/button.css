@@ -1,0 +1,11 @@
+button {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    background: #0371ff;
+    outline: none;
+    border: none;
+    border-radius: 10px;
+}
